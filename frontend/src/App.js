@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 function App() {
   const [message, setMessage] = useState('Loading...');
   useEffect(() => {
-    fetch('http://13.53.198.70:5000/api/message')
+    fetch('http://13.61.178.113:5000/api/message')
       .then(res => res.json())
       .then(data => setMessage(data.message))
       .catch(err => setMessage('Failed to connect to backend'));
