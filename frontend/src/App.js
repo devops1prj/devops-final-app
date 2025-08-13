@@ -13,7 +13,6 @@ function App() {
       <h1> My first deployment</h1>
       <h1>praveen</h1>
       <h2>Dsatm</h2>
-      <h6>mee and me</h6>
       <p>This frontend is served by a React container.</p>
       <h2>Message from Backend:</h2>
       <p style={{ color: '#3498db', fontSize: '1.5em', fontWeight: 'bold' }}>{message}</p>
