@@ -12,12 +12,7 @@ function App() {
       <h1>Simple Full-Stack App</h1>
       <h1> My first deployment</h1>
       <h1>praveen</h1>
-      <h2>Dsatm</h2>
-      <h2>mallela</h2>
-      <h1>Demo deen</h1>
-      <h2>kumar</h2>
-      <h1>hello world</h1>
-      <h1>no one</h1>
+      <h2> Mallela Praveen Kumar</h2>
       <p>This frontend is served by a React container.</p>
       <h2>Message from Backend:</h2>
       <p style={{ color: '#3498db', fontSize: '1.5em', fontWeight: 'bold' }}>{message}</p>
