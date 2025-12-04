@@ -11,13 +11,13 @@ function App() {
     <div style={{ textAlign: 'center', marginTop: '50px', fontFamily: 'sans-serif' }}>
       <h1>Simple Full-Stack App</h1>
       <h1> My first deployment</h1>
-      <h1>praveen</h1>
-      <h2> Mallela Praveen Kumar</h2>
-      <h1> praveen</h1>
+      <h1>Jayanth</h1>
+      <h2> Jayanth Kumar P N</h2>
+      <h1> Jayanth</h1>
       <h1> devops</h1>
       <h1> SST tech</h1>
-      <h1> mallela</h1>
-      <h1>praveen</h1>
+      <h1> Kumar</h1>
+      <h1>Jayanth</h1>
       <h2>final changes1</h2>
       <h1> Jayanth </h1>
       <h1>dsatm</h1>
