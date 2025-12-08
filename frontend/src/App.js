@@ -17,7 +17,7 @@ function App() {
       <h1> devops</h1>
       <h1> SST tech</h1>
       <h1> Kumar</h1>
-      <h1>Jayanth</h1>
+      <h1>Jayanth.</h1>
       <h2>final changes1</h2>
       <h1> Jayanth </h1>
       <h1>dsatm</h1>
