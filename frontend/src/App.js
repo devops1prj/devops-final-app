@@ -21,9 +21,9 @@ function App() {
       <h2>final changes1</h2>
       <h1> jayanth </h1>
       <h1>dsatm</h1>
-      <h2> ******@ </h2>
+      <h2>@*****@ </h2>
       <h1>hello </h1>
-      <h1>deepika1</h1>
+      <h1>12</h1>
       <p>This frontend is served by a React container.</p>
       <h2>Message from Backend:</h2>
       <p style={{ color: '#3498db', fontSize: '1.5em', fontWeight: 'bold' }}>{message}</p>
